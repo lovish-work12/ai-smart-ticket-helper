@@ -1,0 +1,9 @@
+description,priority,sla_breach
+Email not working,High,1
+VPN not connecting,Medium,0
+Forgot password,Low,0
+System crash on startup,Critical,1
+Slow internet,High,1
+Printer not responding,Medium,0
+Keyboard not responding,Low,0
+Software update error,Medium,1
